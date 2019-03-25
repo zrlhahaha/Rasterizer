@@ -6,3 +6,10 @@
 
 场景简单的话，256x144，可以有个30，40帧
 ![image](https://github.com/zrlhahaha/Rasterizer/blob/master/README_IMG_4.gif)
+
+B站视频：
+https://www.bilibili.com/video/av47259577
+
+Build 版本：
+链接：https://pan.baidu.com/s/12PXUJoOFe1Ez29Uo77fa2Q 
+提取码：852p 
